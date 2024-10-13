@@ -35,4 +35,6 @@ Our goal is to:
    git clone https://github.com/username/multimodal-transformer.git
    cd multimodal-transformer
 
-"Transforming images, one comparison at a time!"
+
+> "Transforming images, one comparison at a time!"
+
