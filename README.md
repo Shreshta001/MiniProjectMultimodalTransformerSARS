@@ -34,3 +34,5 @@ Our goal is to:
    ```bash
    git clone https://github.com/username/multimodal-transformer.git
    cd multimodal-transformer
+
+"Transforming images, one comparison at a time!"
