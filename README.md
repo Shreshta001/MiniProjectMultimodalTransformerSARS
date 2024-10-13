@@ -36,5 +36,11 @@ Our goal is to:
    cd multimodal-transformer
 
 
+
+## 💬 **Contact**
+
+Feel free to reach out for any queries or collaboration ideas!
+
 > "Transforming images, one comparison at a time!"
+
 
