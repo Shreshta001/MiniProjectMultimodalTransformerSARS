@@ -6,6 +6,7 @@
 
 Welcome to the **Estimate Multimodal Transformer Observation Difference** project! This project focuses on utilizing a multimodal transformer to generate **observations from two images** and **calculate a numerical difference** between the observations. The images are from the **BDD100K dataset**, and we use **Fuyu-8B model** to compare the observations and generate high-level metrics.
 
+
 ---
 
 ### 🎯 **Objective**
@@ -29,11 +30,12 @@ Our goal is to:
 
 ## ⚙️ **Installation**
 
- Clone the repository:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/username/multimodal-transformer.git
    cd multimodal-transformer
+
 
 ---
 
@@ -42,5 +44,3 @@ Our goal is to:
 Feel free to reach out for any queries or collaboration ideas!
 
 > "Transforming images, one comparison at a time!"
-
-
