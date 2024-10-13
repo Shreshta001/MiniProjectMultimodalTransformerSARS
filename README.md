@@ -35,7 +35,7 @@ Our goal is to:
    git clone https://github.com/username/multimodal-transformer.git
    cd multimodal-transformer
 
-
+---
 
 ## 💬 **Contact**
 
